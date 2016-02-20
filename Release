@@ -1,0 +1,8 @@
+Origin: TheTechie15 Public Repository
+Label: TheTechie15 Public Repo
+Suite: stable
+Version: 1.0
+Codename: Thetechie15
+Architectures: iphoneos-arm
+Components: main
+Description: TheTechie15's Public Cydia Repository

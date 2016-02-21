@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: ASDazey <thetechie15@gmail.com>
 Depends: winterboard
 Filename: ./debs/com.thetechie15.blurryface_1.0_iphoneos-arm.deb
-Size: 1795396
-MD5sum: 9f6fcc7313013208243e44caadd827e6
-SHA1: 923e15de0eef77567d87070c75f28ad1fbac007e
-SHA256: d30fe4af16acc6e631dad977aa2ce9cfe559d335ac4aaa5e3e7f2f5c096a2789
+Size: 2667664
+MD5sum: 44f7ee732e81115514e90e82aa4c3170
+SHA1: 2d27c619cb939a4a56973c28eacc020a1894a8dc
+SHA256: ca2a637d9b1c0c0bdeb25479dbe84acfd687cfee89907d7675ab18ddc7561563
 Section: Themes (LockScreen)
 Description: Twenty One Pilots "BlurryFace" album cover lockscreen passcode buttons and phone dial buttons.
 Author: ASDazey (TheTechie15) <thetechie15@gmail.com>

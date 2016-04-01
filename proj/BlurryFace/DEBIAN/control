@@ -1,7 +1,7 @@
 Package: com.thetechie15.blurryface
 Name: BlurryFace Theme
-Depends: winterboard, com.alexzielenski.zeppelin
-Version: 1.2s
+Depends: winterboard
+Version: 1.5
 Architecture: iphoneos-arm
 Description: Twenty One Pilots "BlurryFace" album cover lockscreen passcode buttons, phone dial buttons, and Zeppelin addon.
 Maintainer: ASDazey <thetechie15@gmail.com>

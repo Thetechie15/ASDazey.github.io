@@ -1,0 +1,10 @@
+Package: com.thetechie15.blurryface
+Name: BlurryFace
+Version: 2
+Architecture: iphoneos-arm
+Description: Blurryface Winterboard Theme
+Homepage: http://thetechie15.github.io
+Depiction: http://thetechie15.github.io
+Maintainer: Aiden Dazey
+Author: Aiden Dazey <thetechie15@gmail.com
+Section: Themes (LockScreen)

@@ -3,10 +3,10 @@ Version: 2
 Architecture: iphoneos-arm
 Maintainer: Aiden Dazey
 Filename: ./debs/com.thetechie15.blurryface_2_iphoneos-arm.deb
-Size: 15758768
-MD5sum: c600c062d47b3009c899f494a899ea2d
-SHA1: 2464d49227ee867c5906a7d643225becb5bc3d91
-SHA256: bc9606843f102b65223f1cf1e0848223750f2e057a29a0ec3bcb3ccbfa64ad87
+Size: 15681732
+MD5sum: 1f14974ecd131b25ed0a24e7a86ff3fd
+SHA1: c952e1e217acdb5ace52cb364d54559936db863e
+SHA256: 46e3d537ef07fde6e57a1623125b83b94247b4f69c9e8695c0f1f697780c88c9
 Section: Themes (LockScreen)
 Homepage: http://thetechie15.github.io
 Description: Blurryface Winterboard Theme
